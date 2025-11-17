@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+quiz_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary text files
+scraped_content.txt
+raw_quiz.txt
+score.txt
+

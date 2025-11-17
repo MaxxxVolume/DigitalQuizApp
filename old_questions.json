@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "London",
+                "Berlin",
+                "Paris",
+                "Madrid"
+            ],
+            "correct_answer": "Paris"
+        },
+        {
+            "question": "Which planet is closest to the Sun?",
+            "options": [
+                "Venus",
+                "Mercury",
+                "Mars",
+                "Jupiter"
+            ],
+            "correct_answer": "Mercury"
+        },
+        {
+            "question": "What is the capital of Italy?",
+            "options": [
+                "Rome",
+                "Bern",
+                "Vienna",
+                "Oslo"
+            ],
+            "correct_answer": "Rome"
+        },
+        {
+            "question": "What is frozen water called?",
+            "options": [
+                "Steam",
+                "Ice",
+                "Mist",
+                "Dew"
+            ],
+            "correct_answer": "Ice"
+        },
+        {
+            "question": "Which combination results in Green?",
+            "options": [
+                "Blue + Red",
+                "Blue + Green",
+                "Yellow + Red",
+                "Yellow + Blue"
+            ],
+            "correct_answer": "Yellow + Blue"
+        },
+        {
+            "question": "Which animal is a herbivore?",
+            "options": [
+                "Tiger",
+                "Panda",
+                "Eagle",
+                "Shark"
+            ],
+            "correct_answer": "Panda"
+        },
+        {
+            "question": "Which element has the symbol \"Fe\"?",
+            "options": [
+                "Iron",
+                "Helium",
+                "Carbon",
+                "Silver"
+            ],
+            "correct_answer": "Iron"
+        },
+        {
+            "question": "Who wrote \"Faust\"?",
+            "options": [
+                "Goethe",
+                "Kafka",
+                "Brecht",
+                "Schiller"
+            ],
+            "correct_answer": "Goethe"
+        },
+        {
+            "question": "Which continent is the largest?",
+            "options": [
+                "Africa",
+                "Europe",
+                "Asia",
+                "Australia"
+            ],
+            "correct_answer": "Asia"
+        },
+        {
+            "question": "What is the currency of Japan?",
+            "options": [
+                "Pound",
+                "Lira",
+                "Euro",
+                "Yen"
+            ],
+            "correct_answer": "Yen"
+        }
+    ]
+}

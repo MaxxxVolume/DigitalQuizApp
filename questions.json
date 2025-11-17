@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "According to the International Union for Conservation of Nature (IUCN), what is the estimated total population range for the polar bear?",
+      "options": [
+        "10,000 to 15,000 individuals",
+        "50,000 to 75,000 individuals",
+        "22,000 to 31,000 individuals",
+        "150,000 to 200,000 individuals"
+      ],
+      "correct_answer": "22,000 to 31,000 individuals"
+    },
+    {
+      "question": "What is the typical body mass range for adult male polar bears?",
+      "options": [
+        "150\u2013300 kg ",
+        "300\u2013800 kg ",
+        "800\u20131,000 kg ",
+        "100\u2013300 kg "
+      ],
+      "correct_answer": "300\u2013800 kg "
+    },
+    {
+      "question": "When hunting seals, what primary component does the polar bear typically feed on, which is described as energy-rich?",
+      "options": [
+        "The meat",
+        "The organs",
+        "The blubber",
+        "The bones"
+      ],
+      "correct_answer": "The blubber"
+    },
+    {
+      "question": "What is the Latin meaning of the polar bear's scientific name: Ursus maritimus?",
+      "options": [
+        "'Ice bear'",
+        "'Great white bear'",
+        "'Arctic bear'",
+        "'Sea bear'"
+      ],
+      "correct_answer": "'Sea bear'"
+    },
+    {
+      "question": "In the context of polar bear reproduction, when does the fertilized embryo typically begin development due to delayed implantation?",
+      "options": [
+        "During the mating season, between March and May",
+        "After the mother emerges from the den in early spring",
+        "In the fall, between mid-September and mid-October",
+        "When the cub is born during winter"
+      ],
+      "correct_answer": "In the fall, between mid-September and mid-October"
+    },
+    {
+      "question": "In the 1758 edition of his work *Systema Naturae*, how did Carl Linnaeus originally classify the polar bear?",
+      "options": [
+        "As a distinct genus: Thalarctos",
+        "As a type of brown bear: Ursus maritimus albus-major, arcticus",
+        "As Ursus eogroenlandicus ",
+        "As a species separate from all other bears"
+      ],
+      "correct_answer": "As a type of brown bear: Ursus maritimus albus-major, arcticus"
+    },
+    {
+      "question": "According to one study mentioned in the sources, what is the average duration a polar bear can swim at a time?",
+      "options": [
+        "1.5 hours",
+        "24 hours",
+        "3.4 days",
+        "7.5 days"
+      ],
+      "correct_answer": "3.4 days"
+    },
+    {
+      "question": "Due to its carnivorous, high-fat diet, polar bears have fewer copies of the gene involved in making which enzyme?",
+      "options": [
+        "Keratin",
+        "Amylase",
+        "Protease",
+        "Lipase"
+      ],
+      "correct_answer": "Amylase"
+    },
+    {
+      "question": "Which 1539 map is noted as possibly containing the earliest depiction of a polar bear on a map, showing a white bear on Iceland or \"Islandia\"?",
+      "options": [
+        "Nihon Shoki",
+        "A Synopsis of Quadrupeds",
+        "Carta marina",
+        "Hauksb\u00f3k"
+      ],
+      "correct_answer": "Carta marina"
+    },
+    {
+      "question": "At what age are polar bear cubs typically weaned?",
+      "options": [
+        "Between one and one-and-a-half years",
+        "Between two and two-and-a-half years",
+        "Exactly three years",
+        "At four years, when they reach sexual maturity"
+      ],
+      "correct_answer": "Between two and two-and-a-half years"
+    }
+  ]
+}
